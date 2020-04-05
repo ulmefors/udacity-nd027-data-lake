@@ -1,0 +1,4 @@
+data/log_data/
+data/song_data/
+.vscode
+__pycache__
