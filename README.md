@@ -7,4 +7,5 @@ Project submission for Udacity Data Engineering Nanodegree - Data Lake
 ```bash
 $ unzip ./data/log-data.zip -d ./data/log_data
 $ unzip ./data/song-data.zip -d ./data
+$ mkdir output
 ```

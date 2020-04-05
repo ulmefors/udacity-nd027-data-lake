@@ -1,4 +1,6 @@
 data/log_data/
 data/song_data/
+output
 .vscode
 __pycache__
+.ipynb_checkpoints
