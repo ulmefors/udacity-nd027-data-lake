@@ -5,7 +5,12 @@ Project submission for Udacity Data Engineering Nanodegree - Data Lake
 ## Install
 
 ```bash
-$ unzip ./data/log-data.zip -d ./data/log_data
-$ unzip ./data/song-data.zip -d ./data
+$ unzip data/log_data.zip -d data
+$ unzip data/song_data.zip -d data
 $ mkdir output
 ```
+
+```bash
+$ pip install -r requirements.txt
+```
+
